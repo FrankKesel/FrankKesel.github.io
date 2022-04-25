@@ -11,8 +11,8 @@ Graduate Engineer (Diplom-Ingenieur)
 Schiller-Gymnasium, Offenburg, Germany
 
 ## Work Experience
-* since 1999: Professor for "Integrated Circuit Design"   at Pforzheim University
-* 1994-1998: Project manager and group leader, Philips Semiconductors AG, Z"urich, Switzerland, Development of baseband ICs for mobile phones, Research on low-power design of ICs
+* since 1999: Professor for "Integrated Circuit Design"  at Pforzheim University
+* 1994-1998: Project manager and group leader, Philips Semiconductors AG, Zürich, Switzerland, Development of baseband ICs for mobile phones, Research on low-power design of ICs
 * 1990-1994: Development engineer, Robert Bosch GmbH, Reutlingen, Germany, Development of ICs for automotive applications, Research on design-for-testability of ICs
-* 1988-1989: Research associate, Universit"at Karlsruhe Department of Computer Science, Research on design-for-testability of ICs
+* 1988-1989: Research associate, Universität Karlsruhe Department of Computer Science, Research on design-for-testability of ICs
 
