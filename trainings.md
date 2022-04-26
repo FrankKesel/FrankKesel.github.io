@@ -1,5 +1,6 @@
  
- # Trainings
+# Trainings
+
 
  I am offering trainings on selected topics around the main theme FPGA design with Xilinx FPGAs. The trainings are offered by the "Technische Akademie Esslingen" (https://www.tae.de) on a regular basis and can also be booked as In-House trainings. If you are interested in a training please contact me directly or you can also contact the TAE.
 
