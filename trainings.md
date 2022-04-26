@@ -6,6 +6,7 @@
 
 ---
 ## Digitales Hardware-Design mit VHDL und FPGAs
+
 1. Einführung in den Hardwareentwurf mit VHDL
 
 2. FPGAs und synchrone Schaltungen
@@ -25,6 +26,7 @@
 
 ---
 ## FPGA-Design mit C/C++ und High-Level Synthese
+
 1. High-Level Synthese und ihre Rolle im Entwurf von FPGAs
 
 2. Funktionsweise der High-Level Synthese
@@ -44,3 +46,32 @@
 9. Optimierung von Feldern und Entrollen von Schleifen
 
 10. Übungseinheit 4: Optimierung
+
+---
+## Embedded System Design
+Ein Workshop mit der Xilinx Zynq-SOC-Plattform
+
+1. Einführung in den Entwurf von Embedded Systems mit der
+Zynq-Plattform und Vivado
+
+2. Übungseinheit 1: Entwurf eines einfachen Zynq-Systems
+
+3. Übersicht über die Zynq-Architektur
+
+4. Erweiterung der Hardware durch die programmierbare Logik
+
+5. Übungseinheit 2: Hinzufügen von IP-Blöcken im FPGA-Teil des
+ZYNQ
+
+6. Entwurf von Custom-IP-Cores
+
+7. Übungseinheit 3: Hinzufügen von benutzerdefinierten
+IP-Blöcken zum Prozessorsystem
+
+8. SDK Softwareentwicklungsumgebung
+
+9. Übungseinheit 4: Programmieren einer einfachen Anwendung
+
+10. Softwarentwicklung und Debugging
+
+11. Übungseinheit 5: Softwareentwicklung und Debugging
