@@ -1,9 +1,12 @@
+
 # Selected Publications
 
+---
 ## Books
 * Frank Kesel; "FPGA Hardware-Entwurf  - Schaltungs- und System-Design mit VHDL und C/C++";  De Gruyter Oldenbourg, 2018, 4. aktualisierte und überarbeitete Auflage,  ISBN  978-3-11-053142-8 
 * F. Kesel; "Modellierung von digitalen Systemen mit SystemC"; Oldenbourg Wissenschaftsverlag, 2012, ISBN 978-3-486-70581-2
 
+---
 ## Conference Papers
 * Torsten Bandel, Frank Kesel, Wolf-Henning Rech; RADAR Signal Processing on an Embedded System using the Xilinx Zynq Platform; mbedded World Conference, Nürnberg, 26.2.-28.2.2019, ISBN 978-3-645-50182-8
 * Frank Kesel; Einsatz von hybriden CPU-FPGA-Chips in Embedded Systems; elektro Automation 01-02 2019, Serie Grundlagen der Technik, Teil 1;
