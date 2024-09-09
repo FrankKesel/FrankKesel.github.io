@@ -6,7 +6,7 @@ My name is Frank Kesel. I am a professor at the [University of Applied Sciences 
 I am teaching and researching in the fields of digital hardware design with FGPAs and programming of Embedded Systems based on microcontrollers or single-board computers.
 
 
-| [CV](cv.md) | [Publications](publications.md) | [Trainings](trainings.md) | [News](news.md) |
+| [CV](cv.md) | [Publications](publications.md) | [Trainings](trainings.md) | [News](news.md) | [Xilinx Tools Tutorials](xilinx_tools.md) |
 
 
 If you want to contact me, please send me an email to: frank.kesel@hs-pforzheim.de
